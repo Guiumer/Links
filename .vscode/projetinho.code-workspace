@@ -1,0 +1,61 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"extensions.ignoreRecommendations": true,
+		"typescript.tsserver.log": "off",
+		"workbench.tree.enableStickyScroll": false,
+		"files.associations": {
+			".env.*": "dotenv",
+			".prettierrc": "json",
+			"*.css": "css",
+			".dev.vars": "dotenv"
+		},
+		"explorer.confirmDelete": false,
+		"terminal.integrated.showExitAlert": false,
+		"terminal.integrated.env.osx": {
+			"FIG_NEW_SESSION": "1"
+		},
+		"workbench.editor.labelFormat": "short",
+		"emmet.includeLanguages": {
+			"javascript": "javascriptreact",
+			"mdx": "javascriptreact"
+		},
+		"emmet.syntaxProfiles": {
+			"javascript": "jsx",
+			"mdx": "jsx"
+		},
+		"explorer.compactFolders": false,
+		"explorer.confirmDragAndDrop": false,
+		"terminal.integrated.fontSize": 14,
+		"terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+		"breadcrumbs.enabled": false,
+		"workbench.productIconTheme": "fluent-icons",
+		"workbench.iconTheme": "symbols",
+		"terminal.integrated.gpuAcceleration": "on",
+		"terminal.integrated.defaultProfile.osx": "fish",
+		"window.commandCenter": false,
+		"workbench.editor.empty.hint": "hidden",
+		"workbench.activityBar.location": "hidden",
+		"explorer.sortOrder": "foldersNestsFiles",
+		"workbench.statusBar.visible": false,
+		"editor.tokenColorCustomizations": {
+			"textMateRules": [
+				{
+					"scope": "keyword.other.dotenv",
+					"settings": {
+						"foreground": "#FF000000"
+					}
+				}
+			]
+		},
+		"workbench.layoutControl.enabled": false,
+		"window.autoDetectColorScheme": true,
+		"workbench.preferredDarkColorTheme": "poimandres",
+		"workbench.preferredLightColorTheme": "Min Light",
+		"liveServer.settings.donotShowInfoMsg": true
+	}
+}
