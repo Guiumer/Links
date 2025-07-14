@@ -108,7 +108,9 @@ body * {
   background: var(--surface-color);
   /*stroke-color-dark-mode */
   border: 1px solid var(--stroke-color);
-  -webkit-backdrop-filter: blur(4px);
+
+  -webkit-backdrop-filter:blur(4px);
+
   border-radius: 9999px;
 }
 
