@@ -9,7 +9,7 @@ function toggleMode() {
     img.setAttribute("src", "./assets/assets/foto profile.png"
     )
   } else {
-   img.setAttribute("src", "./assets/assets/foto profile.png")
+   img.setAttribute("src", "./assets/assets/profile-bonito.jpg")
   }
 
 }
